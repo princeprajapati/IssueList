@@ -189,4 +189,4 @@ const IssueList = () => {
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
-root.render(<IssueList />);
+root.render(<IssueList/>);
